@@ -1,0 +1,13 @@
+﻿@inherits ComponentBase
+
+<div class="node">
+    Node
+</div>
+
+<NodeFragment>
+    @if (RenderNext)
+    {
+        <Node RenderNext="false"></Node>
+    }
+</NodeFragment>
+

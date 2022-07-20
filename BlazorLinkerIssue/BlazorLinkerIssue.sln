@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorLinkerIssue.Client", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorLinkerIssue.Shared", "BlazorLinkerIssue\Shared\BlazorLinkerIssue.Shared.csproj", "{D95BE9AE-ED91-45ED-BC25-D029712054D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomComponents", "CustomComponents\CustomComponents.csproj", "{E0B59E45-3C91-4F57-B0EF-727B698E9EEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D95BE9AE-ED91-45ED-BC25-D029712054D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D95BE9AE-ED91-45ED-BC25-D029712054D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D95BE9AE-ED91-45ED-BC25-D029712054D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B59E45-3C91-4F57-B0EF-727B698E9EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B59E45-3C91-4F57-B0EF-727B698E9EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B59E45-3C91-4F57-B0EF-727B698E9EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B59E45-3C91-4F57-B0EF-727B698E9EEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
