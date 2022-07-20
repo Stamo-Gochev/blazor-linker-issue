@@ -1,0 +1,14 @@
+MSBuild version 17.3.0-preview-22306-01+1c045cf58 for .NET
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+C:\Program Files\dotnet\sdk\7.0.100-preview.5.22307.18\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.RuntimeIdentifierInference.targets(219,5): message NETSDK1057: You are using a preview version of .NET. See: https://aka.ms/dotnet-support-policy [D:\...\blazor-linker-issue\BlazorLinkerIssue\BlazorLinkerIssue\Server\BlazorLinkerIssue.Server.csproj]
+C:\Program Files\dotnet\sdk\7.0.100-preview.5.22307.18\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.RuntimeIdentifierInference.targets(219,5): message NETSDK1057: You are using a preview version of .NET. See: https://aka.ms/dotnet-support-policy [D:\...\blazor-linker-issue\BlazorLinkerIssue\CustomComponents\CustomComponents.csproj]
+C:\Program Files\dotnet\sdk\7.0.100-preview.5.22307.18\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.RuntimeIdentifierInference.targets(219,5): message NETSDK1057: You are using a preview version of .NET. See: https://aka.ms/dotnet-support-policy [D:\...\blazor-linker-issue\BlazorLinkerIssue\BlazorLinkerIssue\Shared\BlazorLinkerIssue.Shared.csproj]
+  CustomComponents -> D:\...\blazor-linker-issue\BlazorLinkerIssue\CustomComponents\bin\Release\net7.0\CustomComponents.dll
+  BlazorLinkerIssue.Shared -> D:\...\blazor-linker-issue\BlazorLinkerIssue\BlazorLinkerIssue\Shared\bin\Release\net7.0\BlazorLinkerIssue.Shared.dll
+  BlazorLinkerIssue.Client -> D:\...\blazor-linker-issue\BlazorLinkerIssue\BlazorLinkerIssue\Client\bin\Release\net7.0\BlazorLinkerIssue.Client.dll
+  BlazorLinkerIssue.Client (Blazor output) -> D:\...\blazor-linker-issue\BlazorLinkerIssue\BlazorLinkerIssue\Client\bin\Release\net7.0\wwwroot
+  BlazorLinkerIssue.Server -> D:\...\blazor-linker-issue\BlazorLinkerIssue\BlazorLinkerIssue\Server\bin\Release\net7.0\BlazorLinkerIssue.Server.dll
+  Optimizing assemblies for size may change the behavior of the app. Be sure to test after publishing. See: https://aka.ms/dotnet-illink
+  Compressing Blazor WebAssembly publish artifacts. This may take a while...
+  BlazorLinkerIssue.Server -> D:\...\blazor-linker-issue\BlazorLinkerIssue\BlazorLinkerIssue\Server\bin\Release\net7.0\publish\
