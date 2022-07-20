@@ -1,5 +1,8 @@
 # blazor-linker-issue
 
+Link to bug report:
+https://github.com/dotnet/aspnetcore/issues/42832
+
 ### Describe the bug
 
 Link to a repository that demonstrates the bug:
