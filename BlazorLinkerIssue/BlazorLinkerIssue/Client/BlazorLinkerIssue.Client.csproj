@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\CustomComponents\CustomComponents.csproj" />
     <ProjectReference Include="..\Shared\BlazorLinkerIssue.Shared.csproj" />
   </ItemGroup>
 
